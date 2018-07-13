@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/fabianchava/fabianchavanne
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Page2](fabianchava.github.io/page2.mb)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -21,7 +23,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-[Page2](fabianchava.github.io/page2.mb)
+
 
 **Bold** and _Italic_ and `Code` text
 
