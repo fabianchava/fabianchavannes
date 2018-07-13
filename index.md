@@ -21,6 +21,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+[Page2](fabianchava.github.io/page2.mb)
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
