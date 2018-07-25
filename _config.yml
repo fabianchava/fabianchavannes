@@ -1,2 +1,16 @@
 theme: jekyll-theme-cayman
 title: Herzlich Willkommen!
+
+# Navigation
+nav:
+- name:     "Home"
+  url:      "/index"
+- name:     "Portrait"
+  url:      "/portrait"
+- name:     "TAngebot"
+  url:      "/angebot"
+- name:     "Gästebuch"
+  url:      "/gaestebuch"
+- name:     "Buchung"
+  url:      "/buchung"
+
