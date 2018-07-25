@@ -1,3 +1,3 @@
 ## Hier entsteht eine Webseite
 
-[About](about.md)
+[Angebot](angebot.md)
