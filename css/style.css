@@ -12,6 +12,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
+  text-decoration:none;
   color: #6dc234; }
   a:hover {
     text-decoration: none;
