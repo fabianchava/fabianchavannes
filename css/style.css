@@ -99,13 +99,13 @@ h1, h2, h3, h4, h5,
   .probootstrap-cover a {
     position: relative;
     color: #fff; }
-    .probootstrap-cover a:before {
+	.probootstrap-cover a:before {
       position: absolute;
       bottom: 0;
       left: 0;
       right: 0;
       background: #6dc234;
-      height: 2px;
+      height: 1px;
       content: " "; }
   .probootstrap-cover.overlay {
     position: relative; }
